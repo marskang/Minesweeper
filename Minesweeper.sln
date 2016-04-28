@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minesweeper", "Minesweeper\Minesweeper.vcxproj", "{67409E1F-F21C-4005-A98F-0D0CC57ECAB1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{FE8C0F53-1CD1-45D5-809C-58F0E2D37D38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67409E1F-F21C-4005-A98F-0D0CC57ECAB1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67409E1F-F21C-4005-A98F-0D0CC57ECAB1}.Debug|Win32.Build.0 = Debug|Win32
+		{67409E1F-F21C-4005-A98F-0D0CC57ECAB1}.Release|Win32.ActiveCfg = Release|Win32
+		{67409E1F-F21C-4005-A98F-0D0CC57ECAB1}.Release|Win32.Build.0 = Release|Win32
+		{FE8C0F53-1CD1-45D5-809C-58F0E2D37D38}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE8C0F53-1CD1-45D5-809C-58F0E2D37D38}.Debug|Win32.Build.0 = Debug|Win32
+		{FE8C0F53-1CD1-45D5-809C-58F0E2D37D38}.Release|Win32.ActiveCfg = Release|Win32
+		{FE8C0F53-1CD1-45D5-809C-58F0E2D37D38}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
