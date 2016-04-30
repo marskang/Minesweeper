@@ -2,7 +2,7 @@
 
 int row = 15;
 int col = 16;
-int mineCount = 5;
+int mineCount = 40;
 
 int gbEachWidth = 25;
 int gbPadding = 2;
